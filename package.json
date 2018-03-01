@@ -7,7 +7,7 @@
     "aseem",
     "light"
   ],
-  "repository": "https://github.com/atom/aseem-atom-theme1-syntax",
+  "repository": "https://github.com/aseem-atom-theme1-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
